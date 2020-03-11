@@ -1,0 +1,31 @@
+
+
+
+body {
+  color: black;
+  background-color: : #E6E6FA ;
+  border: 1 px solid black;
+  font-family: helvetica
+}
+
+h1 {
+
+color: #191970
+font-family: Times New Roman ;
+
+
+}
+
+h2{
+
+  border: 3px dashed blue;
+}
+
+p {
+  color: blue;
+  font-family: helvetica
+}
+
+.naz {
+  background-color: #D2B4DE	;
+}
